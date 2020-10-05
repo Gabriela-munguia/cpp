@@ -23,7 +23,8 @@ int main(int argc, char const *argv[])
         switch (opcion)
         {
         case 1:
-            system("cls");
+             system("cls");     
+
               {
             starShip();
              }
